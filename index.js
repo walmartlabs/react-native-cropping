@@ -3,7 +3,8 @@
 var React = require('react-native');
 var {
   Text,
-  View
+  View,
+  Image
 } = React;
 
 var CroppingView = React.createClass({
