@@ -4,6 +4,12 @@ React Native Cropping Components
 This library provides two components `CroppingView` and `CroppedImage`
 that allow you to crop views and to provide cropped images.
 
+## Installation
+
+```
+npm install react-native-cropping --save
+```
+
 ## Obligatory Demo
 
 ![Demo page](./images/preview.gif)
