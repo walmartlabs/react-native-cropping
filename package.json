@@ -9,5 +9,9 @@
   "license": "MIT",
   "dependencies": {
     "react-native": "^0.10.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/walmartreact/react-native-cropping.git"
   }
 }
