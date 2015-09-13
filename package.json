@@ -1,17 +1,16 @@
 {
   "name": "react-native-cropping",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cropping components for react-native",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Jack Herrington <jherrington@walmartlabs.com>",
   "license": "MIT",
   "dependencies": {
     "react-native": "^0.10.1"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/walmartreact/react-native-cropping.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walmartreact/react-native-cropping.git"
   }
 }
