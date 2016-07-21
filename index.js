@@ -1,11 +1,16 @@
 'use strict';
 
-var React = require('react-native');
-var {
+
+import React, {
+    Component,
+    PropTypes
+} from 'react';
+
+import {
   Text,
   View,
   Image
-} = React;
+} from 'react-native';
 
 var CroppingView = React.createClass({
   propTypes: {
